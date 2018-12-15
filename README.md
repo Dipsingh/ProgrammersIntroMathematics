@@ -1,2 +1,2 @@
 # ProgrammersIntroMathematics
-Programmers Intro to Mathematics Excercises
+This Repo contains exercises from Programmers Intro to Mathematics
